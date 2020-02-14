@@ -1,0 +1,8 @@
+Generator debug info
+--------------------
+
+RPW version:  4.3.1 on Windows 7
+Java version: Java(TM) SE Runtime Environment 1.8.0_131
+MC+assets v.: 1.12+1.12
+
+Generated:    2017/07/04
