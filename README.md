@@ -7,3 +7,51 @@ To make it clear, I am not the original creator. The originial was a guy by the 
 
 <a href="http://www.youtube.com/user/FVDisco" target="_blank"><img src="https://yt3.ggpht.com/a/AGF-l7_T1U5GpS4CyvFaA84Bfglff7iqZyhuRgh6lQ=s288-c-k-c0xffffffff-no-rj-mo" 
 alt="FVDisco YT" width="240" height="180" border="10" /></a>
+
+
+KNOWN MISSING TEXTURES:
+ - Most mobs
+ - Smoker
+ - Shields
+ - Shukers
+ - Bee stuff
+ - Loom
+ - Magma Rock
+ - Armor
+ - Almost all items
+ - Berreis
+ - End Crystal
+ - Nether Wart
+ - Wither Rose
+ 
+ 
+BLOCKS MISSING CAUSE OF NAMES (I think)
+  - A... few stain glass pannel
+  - Stone Cutter
+  - Bell
+  - Barkless logs
+  - One of the sea grasses is glitched
+  - Spruce trap doors
+  - Minecarts look a bit weird. Not much, just the lines on the sides
+  - Coco Beans
+  - Repeaters and Comparators that are off
+  
+ 
+NOT PLANING TO MAKE
+  - Glazed Terracota
+  - All Coral
+  - Concrete
+  - Concrete Powder
+Why?
+Because I think they are really complicated textures and they are hard to get in line with my vision of the texture pack, or in the case of concrete (and the powder), I don't think they really need to be changed. If anyone has suggestions or ideas, make a fork and commit the items to the fork, and make an Issue post. The title should be (BLOCK IDEA) *Block Name*
+
+
+GOD AWFUL BLOCKS THAT I NEED TO CHANGE (I'm sorry for making them)
+  - Kelp Block
+
+
+DON'T CARE THAT MUCH ABOUT
+  - Particles
+  
+  
+That's all I know about. If you find other things, make a Issue post with (MISSING TEXTURE) *Block Name*
