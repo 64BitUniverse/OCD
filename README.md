@@ -42,6 +42,7 @@ NOT PLANING TO MAKE
   - All Coral
   - Concrete
   - Concrete Powder
+  
 Why?
 Because I think they are really complicated textures and they are hard to get in line with my vision of the texture pack, or in the case of concrete (and the powder), I don't think they really need to be changed. If anyone has suggestions or ideas, make a fork and commit the items to the fork, and make an Issue post. The title should be (BLOCK IDEA) *Block Name*
 
