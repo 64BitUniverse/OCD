@@ -26,7 +26,7 @@ KNOWN MISSING TEXTURES:
  
  
 BLOCKS MISSING CAUSE OF NAMES (I think)
-  - A... few stain glass pannel
+  - White stained glass. It's beign weird
   - Stone Cutter
   - Bell
   - Barkless logs
