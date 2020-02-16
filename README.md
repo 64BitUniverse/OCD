@@ -54,4 +54,4 @@ DON'T CARE THAT MUCH ABOUT
   - Particles
   
   
-That's all I know about. If you find other things, make a Issue post with (MISSING TEXTURE) *Block Name*
+That's all I know about. There are some that I fixed, but haven't commited yet. They aren't on the list. I was going to do the renaming in one go and then commit everything. If you find other things, make a Issue post with (MISSING TEXTURE) *Block Name*
