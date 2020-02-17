@@ -27,7 +27,7 @@ KNOWN MISSING TEXTURES:
  
 BLOCKS MISSING CAUSE OF NAMES (I think)
   - ~~White stained glass. It's being weird~~
-  - Stone Cutter
+  - ~~Stone Cutter~~
   - ~~Bell~~
   - ~~Barkless logs~~
   - One of the sea grasses is glitched
