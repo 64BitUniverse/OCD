@@ -26,15 +26,9 @@ KNOWN MISSING TEXTURES:
  
  
 BLOCKS MISSING CAUSE OF NAMES (I think)
-  - ~~White stained glass. It's being weird~~
-  - ~~Stone Cutter~~
-  - ~~Bell~~
-  - ~~Barkless logs~~
   - One of the sea grasses is glitched
-  - ~~Spruce trap doors~~
   - Minecarts look a bit weird. Not much, just the lines on the sides
   - Coco Beans
-  - ~~Repeaters and Comparators that are off~~
   
  
 NOT PLANING TO MAKE
