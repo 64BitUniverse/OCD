@@ -23,10 +23,10 @@ KNOWN MISSING TEXTURES:
  - End Crystal
  - Nether Wart
  - Wither Rose
+ -Sea Grasses
  
  
 BLOCKS MISSING CAUSE OF NAMES (I think)
-  - One of the sea grasses is glitched
   - Minecarts look a bit weird. Not much, just the lines on the sides
   - Coco Beans
   
@@ -36,17 +36,10 @@ NOT PLANING TO MAKE
   - All Coral
   - Concrete
   - Concrete Powder
+  - Particles
   
 Why?
 Because I think they are really complicated textures and they are hard to get in line with my vision of the texture pack, or in the case of concrete (and the powder), I don't think they really need to be changed. If anyone has suggestions or ideas, make a fork and commit the items to the fork, and make an Issue post. The title should be (BLOCK IDEA) *Block Name*
-
-
-GOD AWFUL BLOCKS THAT I NEED TO CHANGE (I'm sorry for making them)
-  - Kelp Block
-
-
-DON'T CARE THAT MUCH ABOUT
-  - Particles
   
   
 That's all I know about. There are some that I fixed, but haven't commited yet. They aren't on the list. I was going to do the renaming in one go and then commit everything. If you find other things, make a Issue post with (MISSING TEXTURE) *Block Name*
