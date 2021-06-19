@@ -11,11 +11,11 @@ alt="FVDisco YT" width="240" height="180" border="10" /></a>
 
 KNOWN MISSING TEXTURES:
  - Most mobs
- - Smoker
+ - ~~Smoker~~
  - Shields
  - Shukers
- - Bee stuff
- - Loom
+ - ~~Bee stuff~~
+ - ~~Loom~~
  - Magma Rock
  - Armor
  - Almost all items
@@ -23,7 +23,7 @@ KNOWN MISSING TEXTURES:
  - End Crystal
  - Nether Wart
  - Wither Rose
- -Sea Grasses
+ - Sea Grasses
  
  
 BLOCKS MISSING CAUSE OF NAMES (I think)
@@ -34,6 +34,8 @@ BLOCKS MISSING CAUSE OF NAMES (I think)
 NOT PLANING TO MAKE
   - Glazed Terracota
   - All Coral
+
+DON'T NEED CHANGES
   - Concrete
   - Concrete Powder
   - Particles
