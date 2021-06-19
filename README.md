@@ -28,7 +28,7 @@ KNOWN MISSING TEXTURES:
  
 BLOCKS MISSING CAUSE OF NAMES (I think)
   - Minecarts look a bit weird. Not much, just the lines on the sides
-  - Coco Beans
+  - ~~Coco Beans~~
   
  
 NOT PLANING TO MAKE
