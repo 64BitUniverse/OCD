@@ -11,17 +11,13 @@ alt="FVDisco YT" width="240" height="180" border="10" /></a>
 
 KNOWN MISSING TEXTURES:
  - Most mobs
- - ~~Smoker~~
+ - Most textures from newer realeases (just assume there's something post 1.8 that isn't here)
  - Shields
  - Shukers
- - ~~Bee stuff~~
- - ~~Loom~~
- - Magma Rock
  - Armor
  - Almost all items
  - Berreis
  - End Crystal
- - Nether Wart
  - Wither Rose
  - Sea Grasses
  
